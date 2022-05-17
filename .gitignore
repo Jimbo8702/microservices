@@ -1,2 +1,4 @@
 .env
 ./admin/.dbdata
+./main/.dbdata
+./main/.env
